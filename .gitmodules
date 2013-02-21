@@ -1,3 +1,3 @@
 [submodule "collagr"]
-	path = collagr
+	path = collagrapp
 	url = git://github.com/Poltergeist/coolagr.git
